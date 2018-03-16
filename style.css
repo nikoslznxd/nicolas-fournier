@@ -1,0 +1,26 @@
+/* HEADER */
+
+
+.header{
+  height: 100px;
+  color: white;
+}
+
+.header h1{
+  text-align: center;
+  line-height: center;
+  color: black;
+}
+
+
+/* NAVBAR */
+
+/* FORMULAIRE */
+
+#contact-form{
+  margin-top: 50px;
+}
+
+.btn1{
+  margin-left: 50px;
+}
